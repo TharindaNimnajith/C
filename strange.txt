@@ -1,0 +1,15 @@
+assert(remainder(3.4, 3) == 0.4);
+assert(remainder(3.4, 4) == 3.4);
+assert(remainder(-8.2, 5.7) == 2.5);
+assert(remainder(8.2, -5.7) == 2.5);
+assert(remainder(-8.2, -5.7) == 2.5);
+
+assert(square(2.35) == 5.5225);
+assert(square(-2.35) == 5.5225);
+
+assert(cube(2.35) == 12.977875);
+assert(cube(-2.35) == -12.977875);
+
+Assertion failed!
+
+???????
